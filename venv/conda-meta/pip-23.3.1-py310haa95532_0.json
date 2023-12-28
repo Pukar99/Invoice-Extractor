@@ -9,7 +9,6 @@
     "wheel"
   ],
   "extracted_package_dir": "C:\\Users\\hp\\.conda\\pkgs\\pip-23.3.1-py310haa95532_0",
-  "features": "",
   "files": [
     "Lib/site-packages/pip-23.3.1-py3.10.egg-info/PKG-INFO",
     "Lib/site-packages/pip-23.3.1-py3.10.egg-info/SOURCES.txt",
@@ -1019,7 +1018,8 @@
     "Scripts/pip-script.py",
     "Scripts/pip.exe",
     "Scripts/pip3-script.py",
-    "Scripts/pip3.exe"
+    "Scripts/pip3.exe",
+    ".nonadmin"
   ],
   "fn": "pip-23.3.1-py310haa95532_0.conda",
   "legacy_bz2_md5": "9d8af2e2439b3c1afe67f839790a2396",
@@ -8106,7 +8106,6 @@
   "size": 3032678,
   "subdir": "win-64",
   "timestamp": 1700667808699,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/pip-23.3.1-py310haa95532_0.conda",
   "version": "23.3.1"
 }

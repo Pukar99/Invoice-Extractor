@@ -1,6 +1,6 @@
-==> 2023-12-27 16:26:33 <==
-# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py create -p venv python==3.10 -y
-# conda version: 4.10.3
+==> 2023-12-28 15:13:37 <==
+# cmd: C:\Users\hp\anaconda3\Scripts\conda-script.py create -p venv python==3.10 -y
+# conda version: 23.7.4
 +defaults/noarch::tzdata-2023c-h04d1e81_0
 +defaults/win-64::bzip2-1.0.8-he774522_0
 +defaults/win-64::ca-certificates-2023.12.12-haa95532_0

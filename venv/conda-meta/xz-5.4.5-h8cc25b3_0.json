@@ -8,7 +8,6 @@
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
   "extracted_package_dir": "C:\\Users\\hp\\.conda\\pkgs\\xz-5.4.5-h8cc25b3_0",
-  "features": "",
   "files": [
     "Library/bin/liblzma.dll",
     "Library/bin/lzcat.exe",
@@ -36,7 +35,8 @@
     "Library/include/lzma/version.h",
     "Library/include/lzma/vli.h",
     "Library/lib/liblzma.lib",
-    "Library/lib/liblzma_static.lib"
+    "Library/lib/liblzma_static.lib",
+    ".nonadmin"
   ],
   "fn": "xz-5.4.5-h8cc25b3_0.conda",
   "legacy_bz2_md5": "ab7307c1ece87ebd7d1663cd23d33874",
@@ -249,7 +249,6 @@
   "size": 607734,
   "subdir": "win-64",
   "timestamp": 1701724342754,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/xz-5.4.5-h8cc25b3_0.conda",
   "version": "5.4.5"
 }

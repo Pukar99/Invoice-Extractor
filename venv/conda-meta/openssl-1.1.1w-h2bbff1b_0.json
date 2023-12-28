@@ -9,7 +9,6 @@
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
   "extracted_package_dir": "C:\\Users\\hp\\.conda\\pkgs\\openssl-1.1.1w-h2bbff1b_0",
-  "features": "",
   "files": [
     "Library/bin/c_rehash.pl",
     "Library/bin/libcrypto-1_1-x64.dll",
@@ -136,7 +135,8 @@
     "Library/ssl/misc/CA.pl",
     "Library/ssl/misc/tsget.pl",
     "Library/ssl/openssl.cnf",
-    "Library/ssl/openssl.cnf.dist"
+    "Library/ssl/openssl.cnf.dist",
+    ".nonadmin"
   ],
   "fn": "openssl-1.1.1w-h2bbff1b_0.conda",
   "legacy_bz2_md5": "a67d4a763641de641ea9dfa8c4a5f567",
@@ -1056,7 +1056,6 @@
   "size": 5763830,
   "subdir": "win-64",
   "timestamp": 1694466133007,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/openssl-1.1.1w-h2bbff1b_0.conda",
   "version": "1.1.1w"
 }

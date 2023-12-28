@@ -7,8 +7,9 @@
     "vs2015_runtime >=14.27.29016"
   ],
   "extracted_package_dir": "C:\\Users\\hp\\.conda\\pkgs\\vc-14.2-h21ff451_1",
-  "features": "",
-  "files": [],
+  "files": [
+    ".nonadmin"
+  ],
   "fn": "vc-14.2-h21ff451_1.conda",
   "legacy_bz2_md5": "45ef24c486a484f079faf1dc90e4c7e9",
   "legacy_bz2_size": 8277,

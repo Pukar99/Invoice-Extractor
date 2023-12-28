@@ -5,7 +5,6 @@
   "constrains": [],
   "depends": [],
   "extracted_package_dir": "C:\\Users\\hp\\.conda\\pkgs\\tzdata-2023c-h04d1e81_0",
-  "features": "",
   "files": [
     "share/zoneinfo/Africa/Abidjan",
     "share/zoneinfo/Africa/Accra",
@@ -609,7 +608,8 @@
     "share/zoneinfo/leapseconds",
     "share/zoneinfo/tzdata.zi",
     "share/zoneinfo/zone.tab",
-    "share/zoneinfo/zone1970.tab"
+    "share/zoneinfo/zone1970.tab",
+    ".nonadmin"
   ],
   "fn": "tzdata-2023c-h04d1e81_0.conda",
   "legacy_bz2_md5": "a815d3bdb160bcc71687f2dda70d3ca4",
@@ -4856,7 +4856,6 @@
   "size": 118328,
   "subdir": "noarch",
   "timestamp": 1680170368293,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/noarch/tzdata-2023c-h04d1e81_0.conda",
   "version": "2023c"
 }

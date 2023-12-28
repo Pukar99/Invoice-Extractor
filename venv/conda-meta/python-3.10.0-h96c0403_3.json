@@ -17,7 +17,6 @@
     "pip"
   ],
   "extracted_package_dir": "C:\\Users\\hp\\.conda\\pkgs\\python-3.10.0-h96c0403_3",
-  "features": "",
   "files": [
     "DLLs/_asyncio.pyd",
     "DLLs/_bz2.pyd",
@@ -2393,7 +2392,8 @@
     "pythonw.exe",
     "pythonw.pdb",
     "venvlauncher.exe",
-    "venvwlauncher.exe"
+    "venvwlauncher.exe",
+    ".nonadmin"
   ],
   "fn": "python-3.10.0-h96c0403_3.tar.bz2",
   "license": "Python-2.0",
@@ -19048,7 +19048,6 @@
   "size": 15996319,
   "subdir": "win-64",
   "timestamp": 1636572178295,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/python-3.10.0-h96c0403_3.tar.bz2",
   "version": "3.10.0"
 }

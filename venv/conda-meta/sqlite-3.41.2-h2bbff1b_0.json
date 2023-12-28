@@ -8,13 +8,13 @@
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
   "extracted_package_dir": "C:\\Users\\hp\\.conda\\pkgs\\sqlite-3.41.2-h2bbff1b_0",
-  "features": "",
   "files": [
     "Library/bin/sqlite3.dll",
     "Library/bin/sqlite3.exe",
     "Library/include/sqlite3.h",
     "Library/include/sqlite3ext.h",
-    "Library/lib/sqlite3.lib"
+    "Library/lib/sqlite3.lib",
+    ".nonadmin"
   ],
   "fn": "sqlite-3.41.2-h2bbff1b_0.conda",
   "legacy_bz2_md5": "32f95c4ef7dfbf22fd35292ff8bd51a5",
@@ -73,7 +73,6 @@
   "size": 915400,
   "subdir": "win-64",
   "timestamp": 1681402905668,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.41.2-h2bbff1b_0.conda",
   "version": "3.41.2"
 }
